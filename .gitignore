@@ -1,6 +1,5 @@
 # exclude everything
-data/employes_AAB.csv
-data/nouveau_employes.csv
+data/
 
 
 # Byte-compiled / optimized / DLL files
