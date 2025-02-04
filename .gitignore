@@ -1,5 +1,6 @@
 # ignore fichier données
-data/*
+data/employes_AAB.csv
+data/nouveau_employes.csv
 
 
 # Byte-compiled / optimized / DLL files
