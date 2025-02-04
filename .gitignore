@@ -1,4 +1,4 @@
-# ignore fichier données
+# exclude everything
 data/employes_AAB.csv
 data/nouveau_employes.csv
 
